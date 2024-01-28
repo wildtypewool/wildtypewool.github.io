@@ -2299,8 +2299,8 @@ pre{background-color:#222;color:#ddd;white-space:pre;-webkit-hyphens:none;-ms-hy
 .pagination li a{padding:.5rem .625rem;background-color:#fff;color:#333;border:1px solid #ddd;border-radius:3px;text-decoration:none}
 .pagination li.disabled{display:none}
 .pagination li.active a:active,.pagination li.active a:link,.pagination li.active a:visited{background-color:#ddd}
-.linkedin,.strava,.twitter,.youtube,.orcid,.researchgate,.instagram,.facebook{fill:#bababa}
-.linkedin:hover{fill:#0a66c2}.twitter:hover{fill:#55acee}.strava:hover{fill:#e95950}.youtube:hover{fill:#b00}.orcid:hover{fill:#a6ce39}.researchgate:hover{fill:#04d4ac}.instagram:hover{fill:#ec0a47}.facebook:hover{fill:#0a15ec}
+.linkedin,.strava,.twitter,.youtube,.orcid,.researchgate,.instagram,.facebook,.mail{fill:#bababa}
+.linkedin:hover{fill:#0a66c2}.twitter:hover{fill:#55acee}.strava:hover{fill:#e95950}.youtube:hover{fill:#b00}.orcid:hover{fill:#a6ce39}.researchgate:hover{fill:#04d4ac}.instagram:hover{fill:#ec0a47}.facebook:hover{fill:#0a15ec}.mail:hover{fill:#5a5a5b}
 /* Navbar container */
 .navbar {
   box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
